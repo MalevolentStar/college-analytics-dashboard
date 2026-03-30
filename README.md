@@ -1,4 +1,4 @@
-# college-analytics-dashboard
+# College-Analytics-Dashboard
 
 An interactive Power BI dashboard designed to analyze and explore college data across five Indian states. The project helps users quickly find college details, view geographic locations on a map, and identify the top-performing colleges based on student preference and enrollment.
 
